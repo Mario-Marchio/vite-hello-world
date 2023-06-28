@@ -1,5 +1,5 @@
 <script>
-import appTitle from `./components/appTitle.vue`
+import appTitle from "./components/appTitle.vue"
 export default {
   data() {
     return {
